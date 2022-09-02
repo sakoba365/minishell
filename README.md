@@ -1,1 +1,3 @@
-# minishel
+# minishell
+
+Mimic unix shell
